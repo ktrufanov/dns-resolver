@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: dns-resolver
-        image: localhost:5000/dns-resolver
+        image: ktrufanov/dns-resolver:0.0.1
         env:
         - name: SERVICE_PORT
           value: "8080"
