@@ -1,6 +1,6 @@
 # dns-resolver
 
-An example of a service for working with an k8s-calico-networksets-controller<br>
+An example of a service for working with an [k8s-calico-networksets-controller](https://github.com/ktrufanov/k8s-calico-networksets-controller)<br>
 Resolve DNS names to json(Nets)
 
 Request to dns-resolver:
